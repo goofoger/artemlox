@@ -7,6 +7,16 @@
     "photo_url": "https://th.bing.com/th/id/R.e0d287e3ee5954829b700024ed1cb41e?rik=VJcmX4mxHB%2f62Q&pid=ImgRaw&r=0",
     "balance": 1500
    	 
-   	}
+   	},
+   "products":[
+   	{
+   	"id": 1,
+   	"name":"geforce gtx 1050",
+    "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
+    "price":6000
+
+
+   }
+
    ]
 }
