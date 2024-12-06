@@ -9,7 +9,7 @@
    	 
    	},
    	{
-   	"id": 1,
+   	"id": 2,
    	"name": "Luffy",
    	"surname": "Monkey",
     "photo_url": "https://th.bing.com/th/id/OIP.qSUvFEzNliCLlWlbHCHnEQHaG9?rs=1&pid=ImgDetMain",
@@ -17,7 +17,7 @@
    	 
    	},
    	{
-   	"id": 1,
+   	"id": 3,
    	"name": "Luffy",
    	"surname": "Monkey",
     "photo_url": "https://th.bing.com/th/id/OIP.qSUvFEzNliCLlWlbHCHnEQHaG9?rs=1&pid=ImgDetMain",
@@ -27,30 +27,37 @@
    ],
    "products":[
    	{
-   	"id": 1,
+   	"id": 4,
    	"name":"geforce gtx 1050",
     "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
     "price":6000,
        "id": 1,
+      },
+   	{
+   	"id": 5,
    	"name":"geforce gtx 1050",
     "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
     "price":6000,
-    "id": 1,
+     
+      },
+      	"id": 6,
    	"name":"geforce gtx 1050",
     "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
     "price":6000,
-    "id": 1,
+     
+      },
+      	"id": 7,
    	"name":"geforce gtx 1050",
     "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
     "price":6000,
-    "id": 1,
+     
+      },
+      	"id": 8,
    	"name":"geforce gtx 1050",
     "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
     "price":6000,
-    "id": 1,
-   	"name":"geforce gtx 1050",
-    "photo_url":"https://th.bing.com/th/id/OIP.RU83Lt_ZZiQJjuDA-R4vGAHaHa?rs=1&pid=ImgDetMain",
-    "price":6000
+     
+      },
 
    }
 
